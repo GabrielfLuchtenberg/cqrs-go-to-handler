@@ -2,7 +2,7 @@
   "name": "go-to-handler",
   "displayName": "Go to Handler",
   "description": "An extension to switch between events/queries/commands and his handlers",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.36.0"
   },
