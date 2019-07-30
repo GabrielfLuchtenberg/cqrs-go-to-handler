@@ -2,7 +2,12 @@
   "name": "go-to-handler",
   "displayName": "Go to Handler",
   "description": "An extension to switch between events/queries/commands and his handlers",
-  "version": "0.1.0",
+  "version": "0.0.1",
+  "publisher": "luchtenberg",
+  "repository": {
+    "url": "https://github.com/GLuchtenberg/cqrs-go-to-handler",
+    "type": "git"
+  },
   "engines": {
     "vscode": "^1.36.0"
   },
